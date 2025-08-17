@@ -1,0 +1,28 @@
+# Node modules (dependencias instaladas)
+node_modules/
+
+# Archivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Entornos
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Compilados / Build
+dist/
+build/
+
+# Cachés de IDEs o herramientas
+.vscode/
+.idea/
+*.tsbuildinfo
+
+# Opcional: lock files si querés (algunos proyectos los versionan)
+# package-lock.json
+# yarn.lock
